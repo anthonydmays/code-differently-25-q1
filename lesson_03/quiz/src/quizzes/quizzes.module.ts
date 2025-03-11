@@ -14,10 +14,10 @@ export const Quizzes = Symbol.for('Quizzes');
 const QUIZ_PROVIDERS = [
   AnthonyMaysQuiz,
   AnotherQuiz,
-  GitClinicQuiz,
   MeikoStephensQuiz,
   MercedesMathewsQuiz,
   Jbeyquiz,
+  GitClinicQuiz,
   DavidAdenaikeQuiz,
   RasheedMillerQuiz,
 ];
